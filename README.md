@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ryan2540254
 - 👀 I’m interested in Finance and Big Data Analysis.
 - 🌱 I’m currently learning Automation & Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Analysis Projects.
 - 📫 How to reach me ryangacherubusiness@outlook.com
 
 <!---
